@@ -22,6 +22,8 @@ LegalEase is an AI-powered web application that helps users generate professiona
 - python-docx
 - FPDF2
 - Pydantic
+## Output link
+ https://priyanv473-cmd.github.io/LEGALEASE-DOCUMENT/
 
 ## Project Structure
 
